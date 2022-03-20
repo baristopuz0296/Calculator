@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hesap {
+public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double sayi1, sayi2;
